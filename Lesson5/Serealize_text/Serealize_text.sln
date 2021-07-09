@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serealize_text", "Serealize_text.csproj", "{63371DC9-0627-4468-8CC2-09A996E79431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63371DC9-0627-4468-8CC2-09A996E79431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63371DC9-0627-4468-8CC2-09A996E79431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63371DC9-0627-4468-8CC2-09A996E79431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63371DC9-0627-4468-8CC2-09A996E79431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF3A439-027E-425B-9087-65912A8B9D47}
+	EndGlobalSection
+EndGlobal
