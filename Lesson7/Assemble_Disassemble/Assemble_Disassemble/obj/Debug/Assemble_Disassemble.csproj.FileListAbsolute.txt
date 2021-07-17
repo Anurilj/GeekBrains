@@ -1,0 +1,7 @@
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\bin\Debug\Assemble_Disassemble.exe.config
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\bin\Debug\Assemble_Disassemble.exe
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\bin\Debug\Assemble_Disassemble.pdb
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\obj\Debug\Assemble_Disassemble.csproj.AssemblyReference.cache
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\obj\Debug\Assemble_Disassemble.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\obj\Debug\Assemble_Disassemble.exe
+D:\GeekBrains\Lesson7\Assemble_Disassemble\Assemble_Disassemble\obj\Debug\Assemble_Disassemble.pdb
